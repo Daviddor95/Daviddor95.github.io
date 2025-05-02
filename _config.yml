@@ -1,0 +1,4 @@
+title: David’s Portfolio
+description: The man, the myth, the irresistible legend.
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+plugins: [jekyll-include-cache]
