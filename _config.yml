@@ -10,8 +10,8 @@ author:
   name   : "David Dorfman"
   avatar : "/assets/images/profile-pic.png"
   bio    : |
-  Software Developer at Arrows
-  Python, Django, JavaScript, React
+    Software Developer at Arrows
+    Python, Django, JavaScript, React
   location: "Israel"
   links:
     - label: "GitHub"
