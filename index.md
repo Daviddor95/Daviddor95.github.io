@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/bg.jpg
-  caption: "Fueled by coffee and curiosity, I’m always chasing elegant solutions and great dad jokes."
+  caption: "Fueled by motivation and curiosity, I’m always chasing elegant solutions and great dad jokes."
 ---
 
 Welcome to my little corner of the internet.
