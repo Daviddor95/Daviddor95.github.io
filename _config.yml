@@ -1,4 +1,34 @@
-title: David’s Portfolio
-description: The man, the myth, the irresistible legend.
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-plugins: [jekyll-include-cache]
+title: "David Dorfman"
+name: "David Dorfman"
+description: >-
+  Description.
+baseurl: "" 
+url: "https://daviddor95.github.io"
+
+author:
+  name   : "David Dorfman"
+  avatar : "/assets/images/avatar.png"
+  bio    : "Bio."
+  location: "Israel"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/daviddor95"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/david-dorfman/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:daviddorfman95@gmail.com"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-paginate-v2
+  - jekyll-archives
+
+markdown: kramdown
+
