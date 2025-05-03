@@ -1,6 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 title: "David Dorfman"
-name: "David Dorfman"
 description: >-
   Description.
 baseurl: "" 
@@ -8,7 +7,7 @@ url: "https://daviddor95.github.io"
 
 author:
   name   : "David Dorfman"
-  avatar : "/assets/images/avatar.png"
+  avatar : "/assets/images/profile-pic.png"
   bio    : "Bio."
   location: "Israel"
   links:
