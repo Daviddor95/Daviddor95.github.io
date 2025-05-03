@@ -9,7 +9,7 @@ url: "https://daviddor95.github.io"
 author:
   name   : "David Dorfman"
   avatar : "/assets/images/profile-pic.png"
-  bio    : "Software Developer at Arrows | Python, Django, JavaScript, React | Passionate Tech Enthusiast"
+  bio    : "Software Developer at Arrows | Python, Django, JavaScript, React"
   location: "Israel"
   links:
     - label: "GitHub"
